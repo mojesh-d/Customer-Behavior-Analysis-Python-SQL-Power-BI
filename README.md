@@ -32,16 +32,16 @@ Steps:
 Structured queries were written to extract and analyze key business metrics.
 
 Key SQL Insights:
-1.Revenue by Gender: Compared total revenue between male and female customers
-2.Top Product Categories: Identified highest-revenue categories
-3.Top Rated Products: Found top 5 products with the best average review rating
-4.Subscription Impact: Compared spending behavior of subscribers vs. non-subscribers
-5.Shipping Preference Analysis: Compared average purchase amounts between standard vs. express shipping
-6.Discount Utilization: Found products with the highest discount usage
-7.Top Products by Category: Top 3 most purchased items per category
-8.Customer Segmentation: Categorized customers as new, returning, or loyal based on purchase history
-9.Revenue by Age Group: Analyzed spending patterns across age groups
-10.Seasonal Trends: Observed purchase behavior across seasons
+1. Revenue by Gender: Compared total revenue between male and female customers
+2. Top Product Categories: Identified highest-revenue categories
+3. Top Rated Products: Found top 5 products with the best average review rating
+4. Subscription Impact: Compared spending behavior of subscribers vs. non-subscribers
+5. Shipping Preference Analysis: Compared average purchase amounts between standard vs. express shipping
+6. Discount Utilization: Found products with the highest discount usage
+7. Top Products by Category: Top 3 most purchased items per category
+8. Customer Segmentation: Categorized customers as new, returning, or loyal based on purchase history
+9. Revenue by Age Group: Analyzed spending patterns across age groups
+10. Seasonal Trends: Observed purchase behavior across seasons
 
 # 📈 Power BI Dashboard
 
