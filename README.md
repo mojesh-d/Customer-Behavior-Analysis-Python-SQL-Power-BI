@@ -88,6 +88,7 @@ This project demonstrates how to transform raw retail data into meaningful busin
 
 # 🔖 Author
 
-Dundangi Mojesh
-📧 www.linkedin.com/in/mojesh-dundangi
-📍 Data Analyst | SQL | Python | Power BI
+- Dundangi Mojesh
+- 📧 Linkedin
+- 💼  www.linkedin.com/in/mojesh-dundangi
+- 📍 Data Analyst | SQL | Python | Power BI
